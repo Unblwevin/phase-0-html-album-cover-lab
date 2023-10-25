@@ -2,7 +2,7 @@
   "name": "phase-0-html-album-cover-lab",
   "version": "1.0.0",
   "description": "HTML Album Cover Lab",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "mocha -R mocha-multi --timeout 5000 --reporter-options spec=-,json=.results.json"
   },
